@@ -8,4 +8,5 @@ The parts will be :
 
 
 The dataset is from Kaggle website : https://www.kaggle.com/datasets/brunoo/ligue-1-results-1999-to-2019
+This project is currently in progress and all the workflow can change in the next weeks.
 
